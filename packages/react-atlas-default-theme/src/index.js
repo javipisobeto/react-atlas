@@ -1,3 +1,4 @@
+require('font-awesome/css/font-awesome.css');
 export { AvatarStyle } from "./avatar";
 export { ButtonStyle } from "./button";
 export { CardStyle } from "./card";
