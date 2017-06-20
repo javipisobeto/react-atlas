@@ -8,6 +8,7 @@ export { DropdownStyle } from "./dropdown";
 export { FormStyle } from "./form";
 export { HintStyle } from "./hint";
 export { HeaderStyle } from "./header";
+export { LabelStyle } from "./label";
 export { ListStyle } from "./list";
 export { ListItemStyle } from "./listItem";
 export { ListTextStyle } from "./listText";

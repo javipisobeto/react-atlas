@@ -4,6 +4,7 @@ export { ButtonCore } from "./button";
 export { FormCore } from "./form";
 export { HintCore } from "./hint";
 export { HeaderCore } from "./header";
+export { LabelCore } from "./label";
 export { ListCore } from "./list";
 export { ListItemCore } from "./listItem";
 export { ListTextCore } from "./listText";
